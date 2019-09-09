@@ -1,0 +1,7 @@
+library_id,molecule_h5
+con_rep1,~/single_cell/final_anaylsis/633818_22-REX/outs/molecule_info.h5
+con_rep2,~/single_cell/final_anaylsis/633818_23-REX/outs/molecule_info.h5
+con_rep3,~/single_cell/final_anaylsis/633818_24-REX/outs/molecule_info.h5
+treat_rep1,~/single_cell/final_anaylsis/633818_25-REX/outs/molecule_info.h5
+treat_rep2,~/single_cell/final_anaylsis/633818_26-REX/outs/molecule_info.h5
+treat_rep3,~/single_cell/final_anaylsis/633818_27-REX/outs/molecule_info.h5
